@@ -2,7 +2,8 @@
 
 ## Description
 QuickStay is a fully functional **Airbnb clone** built with **Node.js**, **Express.js**, and **MongoDB**. It allows users to browse property listings, use filters and search bars, log in/sign up, view detailed property pages, and leave reviews.
-
+## PROJECT LIVE LINKED :- 
+https://home-listings-booking.onrender.com/listings
 ## Features
 - **User Authentication**: Secure login and registration system with session management.
 - **Homepage**: Displays available properties with a search bar and filters for  trending , cities , arctic ,castle ,farms  etc.
